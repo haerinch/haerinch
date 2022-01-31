@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
-#
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F36626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white)
