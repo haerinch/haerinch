@@ -14,7 +14,6 @@
 # 
 
 [![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gofls0710)](http://solved.ac/gofls0710/)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gofls0710)](https://solved.ac/gofls0710)
 
 <!--
 **haerinch/haerinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
