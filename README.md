@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-[![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gofls0710)](http://solved.ac/gofls0710/)
+![MySQL](https://img.shields.io/badge/Python-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Python-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+
+# [![Solved.ac.Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gofls0710)](http://solved.ac/gofls0710/)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gofls0710)](https://solved.ac/gofls0710)
 
 <!--
