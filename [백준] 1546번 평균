@@ -1,0 +1,10 @@
+n = int(input())
+score = list(map(int, input().split()))
+max_score = max(score)
+
+new_score = []
+for i in range(n) :
+    new_score.append(score[i]/max_score*100)
+    
+avg_score = sum(new_score)/n
+print(avg_score)
