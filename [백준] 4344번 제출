@@ -1,0 +1,10 @@
+n = int(input())
+for i in range(n) :
+    n_class = list(map(int, input().split()))
+    avg = sum(n_class[1:]) / n_class[0]
+    std = 0
+    for j in n_class[1:] :
+        if j > avg :
+            std += 1
+    per = (std / n_class[0]) * 100
+    print('%.3f' %per + '%')
