@@ -1,0 +1,13 @@
+n = int(input())
+for i in range(n) :
+    answer = list(input())
+    score = 1
+    sum = 0
+    a = len(answer)
+    for i in range(a) :
+        if answer[i] == 'O' :
+            sum += score
+            score += 1
+        if answer[i] == 'X' :
+            score = 1
+    print(sum)
